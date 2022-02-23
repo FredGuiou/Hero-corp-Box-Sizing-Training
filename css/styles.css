@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#container{
+    background-color: white;
+}
+
+
+
+
+/**************/
+/***Header****/
+/*************/
+
+.Nomserie{
+    font-size: 5em;
+}
+
+.Laserie{
+    font-size: 2em;
+}
+
+/**************/
+/*****MAIN****/
+/*************/
+
+main{
+    background-color: rgb(235, 235, 235);
+}
+
+h2{
+    font-size: 3em;
+}
+
+h3{
+    color:brown;
+    font-size: 2em;
+}
+
+/**************/
+/***FOOTER****/
+/*************/
+
+footer{
+    background-color: rgb(236, 236, 236);
+}
